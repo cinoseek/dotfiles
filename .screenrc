@@ -1,0 +1,2 @@
+caption always "%-Lw%{= Yk}%50>%n%f*%t%{-}%+Lw%<%-12= %?%F%?%{b}%c %m/%d%?"
+term "screen-256color"

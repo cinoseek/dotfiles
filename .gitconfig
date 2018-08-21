@@ -1,0 +1,9 @@
+[user]
+	email = cinoseek@gmail.com
+	name = cno
+[core]
+	editor = vi
+[push]
+	default = matching
+[color]
+        ui = auto
